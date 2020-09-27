@@ -3,6 +3,6 @@ My first repository on GitHub
 
 My code path starts now :)
 
-脚注 [^test]。
+创建脚注格式类似这样 [^TEST]。
 
-[^test]: 啊
+[^TEST]: 梦想！！！
